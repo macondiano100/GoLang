@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"makondos.com/GoLang/internal/animals"
+	"github.com/macondiano100/GoLang/internal/animals"
 )
 
 func DoAnimal() {

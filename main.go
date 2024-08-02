@@ -1,6 +1,6 @@
 package main
 
-import "makondos.com/GoLang/internal/animals"
+import "github.com/macondiano100/GoLang/internal/animals"
 
 func main() {
 	animals.Bark()
