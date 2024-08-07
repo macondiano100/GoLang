@@ -18,7 +18,5 @@ func DoAnimal(animal Animal) {
 		animals.Meow()
 	case PARROT:
 		println("Not supported")
-
 	}
-	animals.Meow()
 }
